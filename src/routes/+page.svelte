@@ -1,1 +1,8 @@
-<h1>Content here</h1>
+<script>
+  import TopSection from "../headers/topSection.svelte";
+  import "../styles/mainStyle.css";
+</script>
+
+<div>
+  <TopSection />
+</div>
