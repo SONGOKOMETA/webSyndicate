@@ -1,11 +1,5 @@
-#main-Text{
-    background: -webkit-linear-gradient(90deg, transparent 0%, #A49C9C 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
 .nav-Wrapper{
+    position: fixed;
     padding: 0;
     margin: 0;
     background-color: #111010;
@@ -15,6 +9,82 @@
 
 .nav-Wrapper-Body{
     margin: auto;
+    margin: 0 65px 0 65px;
     padding: 10px;
     color: #554F4F;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-Wrapper-Body-Left{
+    font-weight: bold;
+    display: inherit;
+    align-items: center;
+}
+
+.nav-Wrapper-Body-Left img{
+    max-width: 60px;
+    margin-right: 10px;
+}
+
+#main-Text{
+    background: -webkit-linear-gradient(90deg, transparent 0%, #A49C9C 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+#sub-Text{
+    margin-left: 15px;
+}
+
+#sub-Text a{
+    margin-left: 15px;
+    color: #554F4F;
+    text-decoration: none;
+}
+
+#sub-Text a:hover{
+   color:#776f6f;
+   transition: 0.1s;
+}
+
+.nav-Wrapper-Body-Right{
+    display: flex;
+    color: #554F4F;
+    text-decoration: none;
+    font-size:100%;
+}
+
+.seat-Button{
+    text-align: center;
+    background-color: #D9D9D9;
+    border-radius: 15px;
+    width: 110px;
+    height: auto;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.seat-Button-Content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #111010;
+}
+
+.seat-Button-Content img{
+    max-width: 30px;
+}
+
+.seat-Button-Content span{
+    text-decoration: none; 
+    margin-left: 10px;
+}
+
+.seat-Button:hover{
+    background-color: #554F4F;
+    transition: 0.2s;
 }
