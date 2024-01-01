@@ -1,0 +1,20 @@
+#main-Text{
+    background: -webkit-linear-gradient(90deg, transparent 0%, #A49C9C 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.nav-Wrapper{
+    padding: 0;
+    margin: 0;
+    background-color: #111010;
+    width: 100%;
+    height: auto;
+}
+
+.nav-Wrapper-Body{
+    margin: auto;
+    padding: 10px;
+    color: #554F4F;
+}
