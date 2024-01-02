@@ -1,5 +1,5 @@
 <script>
-  import "../styles/midSectionStyle.css";
+  import "../assets/styles/midSectionStyle.css";
 </script>
 
 <div class="main-Container">

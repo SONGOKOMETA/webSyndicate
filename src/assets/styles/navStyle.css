@@ -1,13 +1,11 @@
 .nav-Wrapper{
     position: sticky;
-    position: -webkit-sticky;
     top:0;
     padding: 0;
     margin: 0;
     background-color: #111010;
     width: 100%;
     height: auto;
-    order:1;
 }
 
 .nav-Wrapper-Body{
