@@ -8,9 +8,10 @@
     color: #554F4F;
     text-decoration: none;
     order:2;
+    line-height: 1.5;
 }
 
-.main-Container h1{
+.main-Container h1,h2,h3,h4{
     background: -webkit-linear-gradient(90deg, transparent 0%, #A49C9C 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
