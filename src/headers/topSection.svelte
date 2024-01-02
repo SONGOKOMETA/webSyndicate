@@ -1,22 +1,18 @@
 <script>
   import "../assets/styles/topSectionStyle.css";
   import discordLogo from "../assets/resources/discord-logo.png";
+  import textDictionary from "$lib/data/content.json";
 </script>
 
 <div class="main-Container">
-  <h1>Abandon hope all ye who enter here!</h1>
+  <h1>{textDictionary.topSectionTopText}</h1>
   <br />
   <span id="main-Container-Flavor-Text">
-    <b>Syndicate.</b> is built on the belief that EvE is better when shared! We
-    are a small collection of Industrial focused corporations that produce
-    armaments, tech II ships and capitals.<br /><b>Syndicate.</b> is always looking
-    for smaller corporations with common sensibilities that wish to work together
-    on large projects and big goals. Is that you or your corporation? Then come speak
-    with us today:
+    {textDictionary.topSectionFlavorText}
   </span>
   <br />
 
-  <a href="/">
+  <a href="https://discord.gg/3mfCC5cYW3">
     <div class="main-Container-Discord-Button">
       <img src={discordLogo} alt="discord button" />
     </div>
