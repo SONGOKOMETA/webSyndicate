@@ -1,0 +1,18 @@
+body {
+  background-color: #000;
+  background-image: url("../resources/skyboxBackdrop1.png");
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  top: 0;
+}
+
+
+
+.bodyContainer {
+  width: 90%;
+  background-color: #111010;
+}

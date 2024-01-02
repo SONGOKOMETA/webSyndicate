@@ -1,5 +1,6 @@
 <script>
-  import "../styles/topSectionStyle.css";
+  import "../assets/styles/topSectionStyle.css";
+  import discordLogo from "../assets/resources/discord-logo.png";
 </script>
 
 <div class="main-Container">
@@ -17,7 +18,7 @@
 
   <a href="/">
     <div class="main-Container-Discord-Button">
-      <img src="src\static\discord-logo.png" alt="discord button" />
+      <img src={discordLogo} alt="discord button" />
     </div>
   </a>
 </div>
