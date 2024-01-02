@@ -1,0 +1,46 @@
+.main-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    height: auto;
+    color: #554F4F;
+    text-decoration: none;
+    order:3;
+}
+
+.main-Container h1{
+    background: -webkit-linear-gradient(90deg, transparent 0%, #A49C9C 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: bold;
+}
+
+.main-Container a{
+    font-weight: bold;
+    text-decoration: none;
+    color:#A49C9C;
+}
+
+.main-Container-Discord-Button_bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 10px;
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #D9D9D9;
+}
+
+.main-Container-Discord-Button_bottom img{
+    max-width: 25px;
+}
+
+.main-Container-Discord-Button_bottom span{
+    margin-left: 10px;
+    font-size: 0.75em;
+}
