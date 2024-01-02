@@ -14,91 +14,103 @@
   <br />
   <br />
   <div class="mid-Gallery">
-    <div class="mid-Gallery_wrapper">
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
-      </div>
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
-      </div>
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
       </div>
     </div>
-    <div class="mid-Gallery_wrapper">
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
-      </div>
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
-      </div>
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
       </div>
     </div>
-    <div class="mid-Gallery_wrapper">
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
       </div>
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
       </div>
-      <div class="mid-Gallery_content">
-        <div class="mid-Gallery_content_img">
-          <img src={drakeImg} alt="content-img" />
-        </div>
-        <div class="mid-Gallery_content_text">
-          <h3>Lorem</h3>
-          <span>Flavor text lorem ipsum suck my fucking balls </span>
-        </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
       </div>
     </div>
   </div>
