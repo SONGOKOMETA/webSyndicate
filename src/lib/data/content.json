@@ -1,0 +1,27 @@
+{
+  "topSectionTopText": "topSectionTopText",
+  "topSectionFlavorText": "topSectionFlavorText",
+  "midSectionTopText": "midSectionTopText",
+  "midSectionFlavorText": "midSectionFlavorText",
+
+  "galleryTopTextTL": "topText11",
+  "galleryFlavorTextTL": "flavorText11",
+  "galleryTopTextTM": "topText12",
+  "galleryFlavorTextTM": "flavorText12",
+  "galleryTopTextTR": "topText13",
+  "galleryFlavorTextTR": "flavorText13",
+
+  "galleryTopTextML": "topText21",
+  "galleryFlavorTextML": "flavorText21",
+  "galleryTopTextMM": "topText22",
+  "galleryFlavorTextMM": "flavorText22",
+  "galleryTopTextMR": "topText23",
+  "galleryFlavorTextMR": "flavorText23",
+
+  "galleryTopTextBL": "topText31",
+  "galleryFlavorTextBL": "flavorText31",
+  "galleryTopTextBM": "topText32",
+  "galleryFlavorTextBM": "flavorText32",
+  "galleryTopTextBR": "topText33",
+  "galleryFlavorTextBR": "flavorText33"
+}

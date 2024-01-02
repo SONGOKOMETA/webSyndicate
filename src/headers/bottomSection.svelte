@@ -5,7 +5,7 @@
 
 <div class="main-Container">
   <h1>Join Syndicate. Today!</h1>
-  <a href="/">
+  <a href="https://discord.gg/3mfCC5cYW3">
     <div class="main-Container-Discord-Button_bottom">
       <img src={discordLogo} alt="discord logo" />
       <span>Join the Syndicate. Discord</span>

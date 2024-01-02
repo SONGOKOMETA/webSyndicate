@@ -16,7 +16,7 @@
       </nav>
     </div>
     <div class="nav-Wrapper-Body-Right">
-      <a href="/">
+      <a href="https://seat.syndicate-alliance.net/home">
         <div class="seat-Button">
           <div class="seat-Button-Content">
             <img src={seatLogo} alt="seat-logo" />

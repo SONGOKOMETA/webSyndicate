@@ -1,115 +1,93 @@
 <script>
   import "../assets/styles/midSectionStyle.css";
   import drakeImg from "../assets/resources/drake.jpg";
+  import textDictionary from "$lib/data/content.json";
 </script>
 
 <div class="main-Container">
-  <h2>Syndicate. Activities</h2>
-  <span id="flavor-Text_mid"
-    >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis
-    tincidunt rutrum: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vivamus iaculis tincidunt rutrum: Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit.
-  </span>
+  <h2>{textDictionary.midSectionTopText}</h2>
+  <span id="flavor-Text_mid">{textDictionary.midSectionFlavorText} </span>
   <br />
   <br />
   <div class="mid-Gallery">
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextTL}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextTL}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextTM}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextTM}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextTR}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextTR}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextML}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextML}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextMM}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextMM}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextMR}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextMR}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextBL}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextBL}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextBM}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextBM}
         </span>
       </div>
     </div>
     <div class="mid-Gallery_content">
       <img src={drakeImg} alt="contentImg" />
       <div class="mid-Gallery_content_text">
-        <h3>Lorem</h3>
+        <h3>{textDictionary.galleryTopTextBR}</h3>
         <span>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
-          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
-          felis hendrerit mollis sit amet at orci.
+          {textDictionary.galleryFlavorTextBR}
         </span>
       </div>
     </div>
