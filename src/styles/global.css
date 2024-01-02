@@ -6,3 +6,19 @@
     font-family: 'Raleway', serif;
   }
 
+body{
+    background-color: #ff0000;
+    background-image: url("/src/static/skyboxBackdrop1.png");
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-Container{
+  width: 90%;
+  background-color:#111010;
+  opacity: 85%;
+}
