@@ -15,10 +15,10 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    order:2;
 }
 
 .main-Container{
   width: 90%;
   background-color:#111010;
-  opacity: 90%;
 }
