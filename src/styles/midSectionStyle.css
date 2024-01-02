@@ -7,5 +7,31 @@
     height: auto;
     color: #554F4F;
     text-decoration: none;
-    order:3;
+    order:2;
+}
+
+#flavor-Text_mid{
+    margin: 10px 15% 0 15%;
+    text-align-last: center;
+}
+
+.mid-Gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mid-Gallery_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.mid-Gallery_content{
+    width: 550px;
+    height: 425px;
+    border-radius: 15px;
+    background-color: #0c0c0c;
 }
