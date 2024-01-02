@@ -1,5 +1,6 @@
 <script>
   import "../assets/styles/midSectionStyle.css";
+  import drakeImg from "../assets/resources/drake.jpg";
 </script>
 
 <div class="main-Container">
@@ -13,20 +14,104 @@
   <br />
   <br />
   <div class="mid-Gallery">
-    <div class="mid-Gallery_wrapper">
-      <div class="mid-Gallery_content">topleft</div>
-      <div class="mid-Gallery_content">topmid</div>
-      <div class="mid-Gallery_content">topright</div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
     </div>
-    <div class="mid-Gallery_wrapper">
-      <div class="mid-Gallery_content">midleft</div>
-      <div class="mid-Gallery_content">midmid</div>
-      <div class="mid-Gallery_content">midright</div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
     </div>
-    <div class="mid-Gallery_wrapper">
-      <div class="mid-Gallery_content">botleft</div>
-      <div class="mid-Gallery_content">botmid</div>
-      <div class="mid-Gallery_content">botright</div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
+    </div>
+    <div class="mid-Gallery_content">
+      <img src={drakeImg} alt="contentImg" />
+      <div class="mid-Gallery_content_text">
+        <h3>Lorem</h3>
+        <span>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at
+          vestibulum enim, sit amet scelerisque dui. Maecenas sit amet dui et
+          felis hendrerit mollis sit amet at orci.
+        </span>
+      </div>
     </div>
   </div>
 </div>
